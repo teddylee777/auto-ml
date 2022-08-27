@@ -12,7 +12,7 @@
 
 본 튜토리얼 **Repository를 복제(Clone)** 하거나 **"Download ZIP"**으로 내려 받습니다.
 
-![image-20220828033638915](../images/README/image-20220828033638915.png)
+![image-20220828033638915](./images/README/image-20220828033638915.png)
 
 
 
@@ -20,7 +20,7 @@
 
 - [참고] 아나콘다 가상환경 설치 관련 블로그 글 [**(링크)**](https://teddylee777.github.io/python/anaconda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%ED%8C%81-%EA%B0%95%EC%A2%8C)
 
-![image-20220828033256739](../images/README/image-20220828033256739.png)
+![image-20220828033256739](./images/README/image-20220828033256739-16616257474351.png)
 
 `automl` 가상환경을 설치 합니다.
 
