@@ -12,10 +12,3 @@
 * [셰익스피어 문체의 글 생성하기](https://trekhleb.dev/machine-learning-experiments/#/experiments/TextGenerationShakespeareRNN)
 
 
-
-## 직접 만들어 보는 인공지능
-
-* [티쳐블 머신](https://teachablemachine.withgoogle.com/train/image)
-
-
-
