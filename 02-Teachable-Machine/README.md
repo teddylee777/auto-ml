@@ -59,13 +59,11 @@
 
    - https://app.netlify.com/ 에 접속하여 간단한 회원가입 절차를 진행합니다.
 
-   - 대시보드에서 "Add new site" - "Deploy Manually"를 클릭합니다.
+   - 대시보드에서 "Sites" - "Deploy Manually" 공간에 폴더를 Drag & Drop 합니다.
 
-     ![image-20220828020055261](../images/README/image-20220828020055261.png)
+     ![image-20220828023311917](../images/README/image-20220828023311917.png)
 
-   - 이전에 생성해 놓은 폴더를 Drag & Drop 합니다.
-
-     ![image-20220828020145153](../images/README/image-20220828020145153.png)
+     
 
    - "Your site is deployed" 메시지를 확인 합니다.
 
