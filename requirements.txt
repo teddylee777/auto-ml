@@ -57,7 +57,6 @@ gitdb==4.0.9
 GitPython==3.1.27
 google-auth==2.11.0
 google-auth-oauthlib==0.4.6
-google-images-download==2.8.0
 google-pasta==0.2.0
 grpcio==1.47.0
 h11==0.13.0
