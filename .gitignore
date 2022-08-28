@@ -12,7 +12,6 @@ image_classifier/
 downloads/
 auto_model/
 google-images-download/
-*.html
 *.h5
 *.txt
 
