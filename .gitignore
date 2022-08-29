@@ -12,6 +12,7 @@ image_classifier/
 downloads/
 auto_model/
 google-images-download/
+kfood/
 *.h5
 *.txt
 *.pkl
