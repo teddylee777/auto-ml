@@ -10,7 +10,7 @@
 
 ### 설치(Installation)
 
-본 튜토리얼 **Repository를 복제(Clone)** 하거나 **"Download ZIP"**으로 내려 받습니다.
+본 튜토리얼 **Repository를 복제(Clone)** 하거나 **"Download ZIP"** 으로 내려 받습니다.
 
 ![image-20220828033638915](./images/README/image-20220828033638915.png)
 
