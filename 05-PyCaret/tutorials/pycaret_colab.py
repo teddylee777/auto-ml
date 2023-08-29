@@ -7,7 +7,7 @@ try:
     IN_COLAB = True
 except:
     IN_COLAB = False
-
+    
 if IN_COLAB:
     print('==='*20)
     print('설치환경: Google Colab')
